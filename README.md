@@ -20,8 +20,8 @@ Recentemente comecei a utilizar o frontend mentor para praticar meus conheciment
 
 ### Links
 
-- URL da Solução: [Adicione a URL da solução aqui](https://github.com/kevin7um/qr-code-component)
-- URL do Site ao Vivo: [Adicione a URL do site ao vivo aqui](https://kevin7um.github.io/qr-code-component)
+- URL da Solução: [GITHUB](https://github.com/kevin7um/qr-code-component)
+- URL do Site ao Vivo: [PAGE](https://kevin7um.github.io/qr-code-component)
 
 ### Construído com
 
