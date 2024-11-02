@@ -12,7 +12,7 @@ Esta é uma solução para o [desafio do componente de QR Code no Frontend Mento
 
 ## Visão Geral
 
-Recentemente comecei a utilizar o frontend mentor para praticar meus conhecimentos no frontend. Este é um desafio inicial da plataforma onde basicamente é desenvolvido um componente apenas com HTML e CSS. Para esse projeto decidir utilizar o SAAS como processador CSS para fixar meus conhecimentos nessa tecnologia.
+Recentemente comecei a utilizar o frontend mentor para praticar meus conhecimentos no frontend. Este é um desafio inicial da plataforma onde basicamente é desenvolvido um componente apenas com HTML e CSS. Para esse projeto decidir utilizar o SASS como processador CSS para fixar meus conhecimentos nessa tecnologia.
 
 ### Captura de Tela
 
@@ -28,7 +28,7 @@ Recentemente comecei a utilizar o frontend mentor para praticar meus conheciment
 - Marcação HTML5 semântica
 - Propriedades personalizadas CSS
 - Flexbox
-- SAAS
+- SASS
 
 ## Autor
 
