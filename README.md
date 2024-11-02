@@ -10,8 +10,6 @@ Esta é uma solução para o [desafio do componente de QR Code no Frontend Mento
   - [Construído com](#construído-com)
 - [Autor](#autor)
 
-**Nota: Apague esta nota e atualize o índice de acordo com as seções que mantiver.**
-
 ## Visão Geral
 
 Recentemente comecei a utilizar o frontend mentor para praticar meus conhecimentos no frontend. Este é um desafio inicial da plataforma onde basicamente é desenvolvido um componente apenas com HTML e CSS. Para esse projeto decidir utilizar o SAAS como processador CSS para fixar meus conhecimentos nessa tecnologia.
